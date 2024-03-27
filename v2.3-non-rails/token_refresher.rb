@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'aws_msk_iam_sasl_signer'
 
 class OAuthTokenRefresher
